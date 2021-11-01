@@ -1,3 +1,5 @@
+#!/bin/bash
+
 mvn archetype:generate                      \
    "-DarchetypeGroupId=io.cucumber"           \
    "-DarchetypeArtifactId=cucumber-archetype" \
